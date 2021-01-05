@@ -9,7 +9,7 @@ aws.config.update({
 })
 ```
 You should change the SECRET_ACCESS_KEY and ACCESS_KEY_ID and REGION in /src/services/image-upload.js file.
-# References
+# Documentations
 ### AWS DOCS
 * [https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/S3.html](https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/S3.html)
 ### Multer S3 Docs
